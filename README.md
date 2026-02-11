@@ -50,7 +50,6 @@ Junior DevOps/Cloud Engineer with hands-on experience building CI/CD pipelines, 
 <br/>
 
 ## Featured Projects
-> ضع لينكات الريبو الحقيقيّة بدل PLACEHOLDER، أو ابعتلي لينكات مشاريع GitHub وأنا أركبهم لك هنا بشكل نهائي.
 
 ### 1) DevOps Pipeline on AWS (Cloud-Native CI/CD + Observability)
 - Fully automated pipeline using Terraform, Ansible, Docker, Jenkins, Kubernetes (EKS), Prometheus, and Grafana.
