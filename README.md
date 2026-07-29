@@ -90,7 +90,7 @@ Junior DevOps/Cloud Engineer with hands-on experience building CI/CD pipelines, 
 <br/>
 
 ## Certifications
-- **AWS Solutions Architect Associate (SAA)**, In progress  
+- **AWS Solutions Architect Associate (SAA)**,   
 - AWS Academy Certified Solutions Architect: Replace URL here if available
 
 <br/>
